@@ -1,0 +1,1 @@
+SELECT *FROM DATABASE WHERE USERNAME = 'JS99' and password = '444';
